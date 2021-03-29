@@ -1,7 +1,7 @@
 package card
 import(
 	"fmt"
-	"bank/pkg/bank/types"
+	"github.com/bakhtiyour/bank/pkg/bank/types"
 	
 )
 func ExampleWithdraw_positive() {
