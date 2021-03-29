@@ -1,7 +1,7 @@
 package card
 
 import (
-	"bank/pkg/bank/types"
+	"github.com/bakhtiyour/bank/pkg/bank/types"
 	//"fmt"
 )
 

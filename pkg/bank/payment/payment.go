@@ -1,7 +1,7 @@
 package payment
 
 import (
-	"bank/pkg/bank/types"
+	"github.com/bakhtiyour/bank/pkg/bank/types"
 	//"fmt"
 )
 func Max(payments []types.Payment) types.Payment{
