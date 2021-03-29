@@ -20,6 +20,7 @@ type PAN string
 type Payment struct {
 	ID int
 	Amount Money
+	Category Category
 }
 //Card представляет информацию о платёжной карте
 type Card struct {
@@ -38,3 +39,7 @@ type PaymentSource struct{
 	Number string
 	Balance Money
 }
+
+type Category string
+
+
